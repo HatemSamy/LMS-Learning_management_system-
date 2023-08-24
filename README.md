@@ -37,6 +37,27 @@ Here're some of the project's best features:
 *   Questions: Creation and management of a categorized database of questions for exams and practice tests.
 *   Academic Year: Definition and management of academic years organizing the school's academic calendar.
 
+
+<h2>💻 Built with</h2>
+
+Technologies and tools used in the project:
+
+*   Node.js
+*   express
+*   MongoDB
+*   mongoose
+*   jsonwebtoken
+*   joi
+*   bcrypt.js
+*   express-async-handler
+*   dotenv
+*   nodemailer
+*   multer
+*   cloudinary
+
+
+
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. express</p>
