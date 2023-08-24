@@ -1,4 +1,4 @@
-# School_management_system
+
 <h1 align="center" id="title">School Management System</h1>
 
 <p align="center"><img src="https://smartstudent.app/media/2022/09/managment-software.png" alt="project-image"></p>
