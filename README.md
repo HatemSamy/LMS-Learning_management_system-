@@ -118,4 +118,4 @@ npm install nodemailer
 <p>10. multer</p>
 
 ```
-npm install morgan
+npm install multer
