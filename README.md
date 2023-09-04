@@ -4,7 +4,11 @@
 <p align="center"><img src="https://smartstudent.app/media/2022/09/managment-software.png" alt="project-image"  width="700"></p>
 
 <h2>Introduction:</h2>
-<p id="description"> The school management system API project developed using Node.js Express and MongoDB is a comprehensive solution for managing various aspects of a school. It provides administrators teachers and students with the necessary tools to streamline administrative tasks enhance communication and ensure efficient management of academic processes. The system offers features such as authentication user roles and secure access control to protect sensitive data. It encompasses modules for managing administrators teachers and students allowing for efficient user management and access control. Additionally it facilitates the creation scheduling and management of exams along with a database of categorized questions. The system supports class levels and graduation years for effective organization and tracking of student progress. It enables the recording and storage of student exam results generating comprehensive reports for analysis. The API also includes features for managing academic programs subjects academic years and academic terms providing a structured framework for curriculum management and academic planning</p>
+<p id="description"> The school management system API project developed using Node.js Express and MongoDB is a comprehensive solution for managing various aspects of a school. It provides administrators teachers and students with the necessary tools to streamline administrative tasks enhance communication and ensure efficient management of academic processes.
+  
+The system offers features such as authentication user roles and secure access control to protect sensitive data. It encompasses modules for managing administrators teachers and students allowing for efficient user management and access control. Additionally it facilitates the creation scheduling and management of exams along with a database of categorized questions.
+
+The system supports class levels and graduation years for effective organization and tracking of student progress. It enables the recording and storage of student exam results generating comprehensive reports for analysis. The API also includes features for managing academic programs subjects academic years and academic terms providing a structured framework for curriculum management and academic planning</p>
 
 <h2>Project Screenshots:</h2>
 
